@@ -1,5 +1,5 @@
 # What is this?
-This repository is used to store the core fo WordPress on Git
+This repository is used to store the core of WordPress on Git
 
 # How can I use?
 You can easily update the core of WordPress by use [WP-CLI](https://github.com/docker-library/official-images/tree/master/library).
