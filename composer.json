@@ -1,0 +1,18 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url" : "http://wpackagist.org"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/akismet": "*",
+        "wpackagist-plugin/breadcrumb-navxt": "*",
+        "wpackagist-plugin/jetpack": "*",
+        "wpackagist-plugin/polylang": "*",
+        "wpackagist-plugin/templatesnext-toolkit": "*",
+        "wpackagist-plugin/woocommerce": "2.4.10",
+        "wpackagist-plugin/siteorigin-panels": "2.2.1",   
+        "wpackagist-plugin/so-widgets-bundle": "1.5.4"
+    }
+}
