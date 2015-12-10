@@ -6,13 +6,14 @@
         }
     ],
     "require": {
-        "wpackagist-plugin/akismet": "*",
-        "wpackagist-plugin/breadcrumb-navxt": "*",
-        "wpackagist-plugin/jetpack": "*",
-        "wpackagist-plugin/polylang": "*",
-        "wpackagist-plugin/templatesnext-toolkit": "*",
-        "wpackagist-plugin/woocommerce": "2.4.10",
-        "wpackagist-plugin/siteorigin-panels": "2.2.1",   
-        "wpackagist-plugin/so-widgets-bundle": "1.5.4"
+        "wpackagist-plugin/akismet": "^3.1.5",
+        "wpackagist-plugin/breadcrumb-navxt": "^5.3",
+        "wpackagist-plugin/jetpack": "^3.8.1",
+        "wpackagist-plugin/polylang": "^1.7.12",
+        "wpackagist-plugin/templatesnext-toolkit": "^1.1.4",
+        "wpackagist-plugin/woocommerce": "^2.4.10",
+        "wpackagist-plugin/siteorigin-panels": "^2.2.1",   
+        "wpackagist-plugin/so-widgets-bundle": "^1.5.4",
+        "wpackagist-plugin/search-by-sku-for-woocommerce": "^0.6.1"
     }
 }
